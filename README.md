@@ -42,3 +42,10 @@ Status: Concept Registry v0.1
 - Establish conceptual precedence
 - Prevent authorship ambiguity
 - Enable future structured development
+
+---
+
+## External Reference
+
+- Medium article: **Guardian — Concept Registry**  
+  https://medium.com/@mrparivar6/guardian-concept-registry-d4aa68a736e5
