@@ -1,4 +1,12 @@
-# Guardian — Concept Registry (v0.1)
+# AGI Guardian — Concept Registry (v0.1)
+
+> **Canonical Name:** AGI Guardian  
+> **Role:** AGI-based Observer, Listener, and Voice Advisor  
+> **Scope:** Non-executive / Non-governing  
+>
+> This repository is a **legacy conceptual registry**.  
+> The repository identifier `-guardian-concept` is preserved for historical continuity.
+
 
 ## Overview
 Guardian is a conceptual framework for a personal artificial intelligence
