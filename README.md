@@ -57,3 +57,16 @@ Status: Concept Registry v0.1
 
 - Medium article: **Guardian — Concept Registry**  
   https://medium.com/@mrparivar6/guardian-concept-registry-d4aa68a736e5
+
+---
+
+## Canonical Relationship
+
+**AGI Guardian** operates as a non-executive conceptual layer within the  
+**AI Decision Governance Framework (AGI Governance v1)**.
+
+Role → Observer / Advisor  
+Governance Authority → External and Superordinated
+
+This canonical relationship defines scope and hierarchy for all AGI-based
+decision frameworks derived from this registry.
